@@ -43,6 +43,9 @@ Let's say you want to build an entire computer from scratch. Most people can nam
 2) Because the operating system is itself a program, it needs someway to start. Check this explanation to get an idea https://www.quora.com/How-do-computers-work-the-way-they-do-When-does-electricity-become-executable-logic-and-how
 3) The operating system once up and running is then responsible for being the translation medium between your devices (e.g. if you want to display something on your screen, both your screen and the hardisk where what you want to display is involved. The operating system is responsible for initiating and facilitating the communication between these two pieces of hardware)
 
+### **Compilation**<br>
+A tremendously useful resource to understand how to put together and build software can be found at this link:
+http://moi.vonos.net/linux/beginners-installing-from-source/
 
 ### **The terminal:**<br>
 A lot of work will be done using the command line. Basic navigation and file manipulation will let you get by but a strong base will allow you to do so much more. I recommend that you at least have good working knowledge of the following commands: {cd, ls, cat, less, grep, rm}. In addition, make sure you know how to use piping "|" and redirection ">" & "<".
